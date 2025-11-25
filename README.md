@@ -3,7 +3,7 @@
 ### Imani Nzeyimana David 27896
 ### Isaro Shania Ida 27970
 ### MURERWA Molly 28057
-### MUWUMUREMYI Honorine 27830
+### UWUMUREMYI Honorine 27830
 
 
 
