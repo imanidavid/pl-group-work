@@ -11,7 +11,7 @@
 
 ## 1. What the Questions Were About
 
-### Question 1 — AUCA System Access Policy (Triggers)
+### Question 1 AUCA System Access Policy (Triggers)
 The task required enforcing access rules for the AUCA system:
 - Users **cannot access or modify data on Saturday and Sunday**.
 - Users **can only access the system Monday–Friday, from 8:00 AM to 5:00 PM**.
@@ -22,7 +22,7 @@ The task required enforcing access rules for the AUCA system:
 
 ---
 
-### Question 2 — HR Employee Management System (PL/SQL Package)
+### Question 2 HR Employee Management System (PL/SQL Package)
 The task required designing a PL/SQL package to manage employees’ salaries:
 - **Function** to calculate RSSB tax (5%) and return net salary.
 - **Dynamic procedure** using `EXECUTE IMMEDIATE` to perform operations (e.g., create or update tables).
