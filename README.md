@@ -20,7 +20,7 @@ The task required enforcing access rules for the AUCA system:
 
 **Goal:** Demonstrate database triggers that enforce real-time security and logging.
 
----
+
 
 ### Question 2 HR Employee Management System (PL/SQL Package)
 The task required designing a PL/SQL package to manage employees’ salaries:
@@ -31,7 +31,7 @@ The task required designing a PL/SQL package to manage employees’ salaries:
 
 **Goal:** Demonstrate PL/SQL package development, dynamic SQL, and database security context.
 
----
+
 
 ## 2. How we Solved It
 
